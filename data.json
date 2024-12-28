@@ -1,21 +1,21 @@
 [
   {
     "ID": 1,
-    "Name": "Барсик",
+    "Name": "Cat",
     "BirthDate": "2018-05-20",
     "Gender": 0,
     "DateOfPet": "2020-01-15"
   },
   {
     "ID": 2,
-    "Name": "Мурка",
+    "Name": "Cat2",
     "BirthDate": "2019-09-12",
     "Gender": 1,
     "DateOfPet": "2021-07-22"
   },
   {
     "ID": 3,
-    "Name": "Рыжик",
+    "Name": "Cat3",
     "BirthDate": "2020-03-08",
     "Gender": 0,
     "DateOfPet": "2022-11-10"
